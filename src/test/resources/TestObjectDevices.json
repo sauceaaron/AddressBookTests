@@ -1,0 +1,19 @@
+  [
+    {
+      "platformName" : "iOS",
+      "platformVersion" : "10.2",
+      "deviceName" : "iPhone SE",
+      "deviceOrientation" : "portrait",
+      "app" : "AddressBookIOS.zip",
+      "testobject_api_key" : "48B2B5909EE14A1EB6F40A0A748A1FF0"
+    },
+
+    {
+      "platformName" : "Android",
+      "platformVersion" : "6.0.1",
+      "deviceName" : "Samsung Galaxy S6",
+      "deviceOrientation" : "portrait",
+      "app" : "AddressBookAndroid.apk",
+      "testobject_api_key" : "86006954598A4FE3B11725E193F45DA0"
+    }
+  ]

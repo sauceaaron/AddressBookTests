@@ -1,0 +1,17 @@
+[
+  {
+    "platformName" : "iOS",
+    "platformVersion" : "11.2",
+    "deviceName" : "iPhone Simulator",
+    "deviceOrientation" : "portrait",
+    "app" : "AddressBookIOS.zip"
+  },
+
+  {
+    "platformName" : "Android",
+    "platformVersion" : "7.1",
+    "deviceName" : "Android GoogleAPI Emulator",
+    "deviceOrientation" : "portrait",
+    "app" : "AddressBookAndroid.apk"
+  }
+]

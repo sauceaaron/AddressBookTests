@@ -23,7 +23,7 @@ pom.xml.tag
 .externalNativeBuild
 
 # Intellij
-.idea/
+.idea
 *.iml
 *.iws
 *.ipr
